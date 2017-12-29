@@ -14,5 +14,5 @@ Also have a look at **openurl.conf.example**.
 **Note**: If you have multiple different openurl.conf files in different config dirs, they are all read, in the order they appear in **XDG_CONFIG_DIRS** in.  
 
 # Running
-You can of course just put it in your **~/bin** and run it like any other script from the commandline etc., but personally i use it as my default browser, so any links i click anywhere get run through it.  
-where/how you set your default program for (http) links could vary depending on what distro/DE/whatever you're using. In case you also need a .desktop file to do so, putting **openurl.desktop** in **~/.local/share/applications/** worked for me, hopefully it does for you, too. :)
+You can of course just put it in your **~/bin** and run it like any other script from the commandline etc., but personally I use it as my default browser, so any links I click anywhere get run through it.  
+Where/how you set your default program for (http) links could vary depending on what distro/DE/whatever you're using. In case you also need a .desktop file to do so, putting **openurl.desktop** in **~/.local/share/applications/** worked for me, hopefully it does for you, too. :)
